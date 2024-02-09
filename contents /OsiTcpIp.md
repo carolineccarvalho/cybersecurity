@@ -14,3 +14,7 @@ TCP/IP é um conjunto de protocolos que possibilita a comunicação entre comput
 Embora apenas dois protocolos estejam evidenciados no nome do TCP/IP, a tecnologia funciona por meio de camadas, que trabalham em conjunto para garantir a transmissão, integridade e segurança dos dados conforme eles viajam pela web.
 
 A divisão do TCP/IP em camadas existe porque, desta forma, a transmissão de dados pode ser padronizada e realizada de modo independente dos dispositivos envolvidos no processo. Isto é, não importa o sistema operacional, a arquitetura do seu processador ou a linguagem de programação envolvida: por ser um modelo padronizado e processado de maneira uniforme, o TCP/IP garante que os dados serão transmitidos da forma correta.
+
+<div>
+ <img align="center" height="350" width="500" src="https://media.discordapp.net/attachments/1205557406738948187/1205593929731276881/tcpip.png"  target="_blank" />
+</div>
