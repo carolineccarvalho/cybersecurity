@@ -4,5 +4,5 @@ O modelo Open Systems Interconnection (OSI) é uma estrutura conceitual que divi
 
 
 <div>
- <img align="center"  height="40" width="60 src="https://media.discordapp.net/attachments/1104183631192268872/1205556636324991016/WhatsApp_Image_2024-02-09_at_13.50.36.jpeg" />
+ <img align="center"  height="120" width="150 src="https://media.discordapp.net/attachments/1104183631192268872/1205556636324991016/WhatsApp_Image_2024-02-09_at_13.50.36.jpeg" />
 </div>
