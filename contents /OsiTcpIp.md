@@ -2,6 +2,17 @@
 
 O modelo Open Systems Interconnection (OSI) é uma estrutura conceitual que divide as funções de comunicação de rede em sete camadas. O modelo de dados OSI fornece uma linguagem universal para redes de computadores, de forma que diversas tecnologias possam se comunicar usando protocolos padrão ou regras de comunicação. Cada tecnologia em uma camada específica deve fornecer determinados recursos e executar funções específicas para ser útil na rede. As tecnologias nas camadas superiores se beneficiam da abstração, pois podem usar tecnologias de nível inferior sem precisar se preocupar com os detalhes subjacentes da implementação.
 
+div {
+  border: 1px solid black;
+  width: 100px;
+  height: 100px;
+}
+
+img {
+  width: 100px;
+  height: 100px;
+  object-fit: contain;
+}
 
 <div>
  <img align="center" src="https://media.discordapp.net/attachments/1104183631192268872/1205556636324991016/WhatsApp_Image_2024-02-09_at_13.50.36.jpeg"  target="_blank" />
