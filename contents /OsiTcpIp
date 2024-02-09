@@ -1,12 +1,2 @@
-What is the OSI model?
-The OSI (Open Systems Interconnection) model is a description of how the internet works. It divides the functions involved in sending data over the internet into seven layers. Each layer has some function that prepares data to be sent over wires, cables, and radio waves as a series of bits.
-
-The seven layers of the OSI model are:
-
-7. Application layer: data generated and usable by application software. The main protocol used in this layer is HTTP .
-6. Presentation layer: Data is translated into a form that the application can accept. Some authorities consider HTTPS encryption and decryption to occur at this layer.
-5. Session layer: controls connections between computers (this can also be handled at layer 4 by the TCP protocol ).
-4. Transport layer: provides the means to transmit data between the two connected parties as well as control the quality of service. The main protocols used here are TCP and UDP .
-3. Network layer: deals with routing and sending data between different networks. The most important protocols at this layer are IP and ICMP.
-2. Data link layer: handles communications between devices on the same network. If layer 3 is a mailing address, layer 2 indicates the office or apartment number at that address. The most used protocol here is Ethernet.
-1. Physical layer: packets are converted into electrical, radio or optical pulses and transmitted as bits (the smallest possible units of information) over wires, radio waves or cables.
+<h1 align="center">O que é o modelo OSI?</h1>
+O modelo Open Systems Interconnection (OSI) é uma estrutura conceitual que divide as funções de comunicação de rede em sete camadas. O envio de dados por uma rede é complexo porque várias tecnologias de hardware e software devem funcionar de forma coesa além das fronteiras geográficas e políticas. O modelo de dados OSI fornece uma linguagem universal para redes de computadores, de forma que diversas tecnologias possam se comunicar usando protocolos padrão ou regras de comunicação. Cada tecnologia em uma camada específica deve fornecer determinados recursos e executar funções específicas para ser útil na rede. As tecnologias nas camadas superiores se beneficiam da abstração, pois podem usar tecnologias de nível inferior sem precisar se preocupar com os detalhes subjacentes da implementação.
