@@ -20,6 +20,7 @@ Todos os dados enviados pela internet são divididos em pedaços menores chamado
 
 Exemplo: Quando uma pessoa envia uma mensagem para outra, a mensagem é dividida em pedaços menores e depois remontada no computador do remetente
 Na camada de rede, o software de rede anexa um cabeçalho a cada pacote quando ele é enviado pela internet e, na outra extremidade, o software de rede pode usar o cabeçalho para entender como lidar com o pacote.
+
 Um cabeçalho contém informações sobre o conteúdo, origem e destino de cada pacote (algo como carimbar um envelope com um destino e endereço de retorno). 
 
 Exemplo: um cabeçalho IP contém o destino (endereço IP) de cada pacote, o tamanho total do pacote, uma indicação se o pacote foi fragmentado ou não (dividido em pedaços ainda menores), e uma contagem de por quantas redes o pacote viajou.
