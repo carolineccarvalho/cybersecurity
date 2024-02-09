@@ -1,4 +1,6 @@
 <h2 align="center">Camada de rede ou camada de internet?</h2>
+Embora a camada de rede e a camada de internet sejam de modelos diferentes (o primeiro corresponde ao OSI e o segundo ao TCP/IP), elas são a mesma coisa. Trata de uma camada que controla o fluxo e o roteamento do tráfego para garantir que os dados sejam enviados com rapidez e precisão. Essa camada também é responsável por remontar o pacote de dados no destino. Se houver muito tráfego de Internet, a camada de Internet pode demorar um pouco mais para enviar um arquivo, mas reduzirá a chance de um erro corromper esse arquivo.
+
 <h2 align="center">O que é uma rede?</h2>
 Uma rede é um grupo de dois ou mais dispositivos conectados. 
 
