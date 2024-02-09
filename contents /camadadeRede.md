@@ -1,5 +1,5 @@
 <h2 align="center">O que é uma rede?</h2>
-Uma rede é um grupo de dois ou mais dispositivos conectados. Normalmente, todos os dispositivos da rede são conectados a um hub central — por exemplo, um roteador. 
+Uma rede é um grupo de dois ou mais dispositivos conectados. 
 
 Sub-redes: Uma sub-rede é uma grande rede dividida em partes menores, o que facilita o controle e a organização das informações que circulam pela rede.
 
