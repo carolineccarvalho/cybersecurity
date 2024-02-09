@@ -4,13 +4,13 @@ O modelo Open Systems Interconnection (OSI) é uma estrutura conceitual que divi
 
 div {
   border: 1px solid black;
-  width: 100px;
-  height: 100px;
+  width: 50px;
+  height: 50px;
 }
 
 img {
-  width: 100px;
-  height: 100px;
+  width: 50px;
+  height: 50px;
   object-fit: contain;
 }
 
