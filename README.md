@@ -1,10 +1,10 @@
-<h1 align="center">Cybersecurity</h1> 
-<h3 align="center">It's a repository where I intend to post about cybersecurity and also share some codes and scripts.</h3>
+<h1 align="center">Cibersegurança</h1> 
+<h3 align="center">Este é um repositório para publicar conteudos, códigos e scrips</h3>
 
 ##
-<h2 align="center">SUMMARY</h2>
-<h4 align="center">Contents</h4>
+<h2 align="center">Resumos</h2>
+<h4 align="center">Conteudos</h4>
 
-- OSI Model vs TCP/IP Model:
+- Modelo OSI vs Modelo TCP/IP:
 
-- Network layer:
+- Camadade rede (OSI) e camada de internet(TCP/IP):
