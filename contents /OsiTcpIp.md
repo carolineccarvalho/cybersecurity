@@ -18,3 +18,10 @@ A divisão do TCP/IP em camadas existe porque, desta forma, a transmissão de da
 <div>
  <img align="center" height="350" width="500" src="https://media.discordapp.net/attachments/1205557406738948187/1205593929731276881/tcpip.png"  target="_blank" />
 </div>
+
+
+<h1 align="center">Diferenças entre OSI e TCP/IP</h1>
+
+<div>
+ <img align="center" height="350" width="500" src="https://media.discordapp.net/attachments/1205557406738948187/1205595348018401311/image.png"  target="_blank" />
+</div>
