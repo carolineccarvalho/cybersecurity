@@ -2,7 +2,6 @@
 Uma rede é um grupo de dois ou mais dispositivos conectados. 
 
 Sub-redes: Uma sub-rede é uma grande rede dividida em partes menores, o que facilita o controle e a organização das informações que circulam pela rede.
-
 Internet (rede de redes) os computadores estão conectados uns aos outros dentro de redes e essas redes se conectam a outras redes. Isso permite que esses computadores se conectem a outros computadores próximos e distantes.
 
 <h2 align="center">O que é uma camada de rede?</h2> 
