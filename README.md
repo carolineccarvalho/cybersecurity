@@ -4,4 +4,7 @@
 ##
 <h2 align="center">SUMMARY</h2>
 <h4 align="center">Contents</h4>
-Network layer:
+
+- OSI Model vs TCP/IP Model:
+
+- Network layer:
