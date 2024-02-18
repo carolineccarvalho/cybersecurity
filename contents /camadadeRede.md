@@ -4,9 +4,9 @@ Embora a camada de rede e a camada de internet sejam de modelos diferentes (o pr
 <h2 align="center">O que é uma rede?</h2>
 Uma rede é um grupo de dois ou mais dispositivos conectados. 
 
-Sub-redes: Uma sub-rede é uma grande rede dividida em partes menores, o que facilita o controle e a organização das informações que circulam pela rede.
+- Sub-redes: Uma sub-rede é uma grande rede dividida em partes menores, o que facilita o controle e a organização das informações que circulam pela rede.
 
-Internet (rede de redes) os computadores estão conectados uns aos outros dentro de redes e essas redes se conectam a outras redes. Isso permite que esses computadores se conectem a outros computadores próximos e distantes.
+- Internet (rede de redes) os computadores estão conectados uns aos outros dentro de redes e essas redes se conectam a outras redes. Isso permite que esses computadores se conectem a outros computadores próximos e distantes.
 
 <h2 align="center">O que é uma camada de rede?</h2> 
  A “camada de rede” é a parte do processo de comunicação da internet no qual as conexões ocorrem, enviando pacotes de dados entre diferentes redes.
